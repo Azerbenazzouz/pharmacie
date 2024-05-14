@@ -1,0 +1,4 @@
+com\mycompany\pharmacie\App.class
+com\mycompany\pharmacie\PrimaryController.class
+com\mycompany\pharmacie\SecondaryController.class
+module-info.class

@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 14 mai 2024, 14:32:34
+    Author     : SBS
+*/
+
+.left-form{
+    -fx-background-color:linear-gradient(to bottom right,#a076e8, #21a7d3);
+    -fx-border-color:#000;
+    -fx-border-width:.4px 0px .4px .4px;
+}
+
+.right-form{
+    -fx-background-color:#ffff;
+    -fx-border-color:#000;
+    -fx-border-width:.4px 0px .4px .4px;
+}
+
+.text{
+
+}
